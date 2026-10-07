@@ -1,0 +1,4 @@
+interface:
+  display_name: "成为皮格马利翁—角色设计"
+  short_description: "由AIR引导角色设计，支持生产与产学双模式、参考研究和AIGC图像交付"
+  default_prompt: "使用 $become-pygmalion-character-design 帮我开始角色设计，先选择生产或产学模式，再确认是否需要3D模型。"
