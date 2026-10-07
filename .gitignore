@@ -1,0 +1,15 @@
+# Keep runtime output and personal project material outside the skill repository.
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+outputs/
+output/
+tmp/
+projects/
+node_modules/
+*.blend
+*.blend1
+*.charakit
